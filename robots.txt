@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--f-zn6a77hswienw.com/sitemap.xml
